@@ -1,2 +1,2 @@
-bool func()
+bool func();
 
